@@ -7,6 +7,9 @@ void F2() {}
 
 void F3() {}
 
+void InitializeArray(){}
+
+void PrintArray() {}
 void Print() {}
 
 int main()
